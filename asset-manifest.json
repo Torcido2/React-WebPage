@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-WebPage/static/css/main.18a3baa2.chunk.css",
+    "main.js": "/React-WebPage/static/js/main.26c8474f.chunk.js",
+    "main.js.map": "/React-WebPage/static/js/main.26c8474f.chunk.js.map",
+    "runtime-main.js": "/React-WebPage/static/js/runtime-main.04191129.js",
+    "runtime-main.js.map": "/React-WebPage/static/js/runtime-main.04191129.js.map",
+    "static/css/2.ec02d681.chunk.css": "/React-WebPage/static/css/2.ec02d681.chunk.css",
+    "static/js/2.e8a28296.chunk.js": "/React-WebPage/static/js/2.e8a28296.chunk.js",
+    "static/js/2.e8a28296.chunk.js.map": "/React-WebPage/static/js/2.e8a28296.chunk.js.map",
+    "index.html": "/React-WebPage/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/React-WebPage/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.18a3baa2.chunk.css.map": "/React-WebPage/static/css/main.18a3baa2.chunk.css.map",
+    "static/js/2.e8a28296.chunk.js.LICENSE.txt": "/React-WebPage/static/js/2.e8a28296.chunk.js.LICENSE.txt",
+    "static/media/poza.72445f94.jpg": "/React-WebPage/static/media/poza.72445f94.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04191129.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.e8a28296.chunk.js",
+    "static/css/main.18a3baa2.chunk.css",
+    "static/js/main.26c8474f.chunk.js"
+  ]
+}
